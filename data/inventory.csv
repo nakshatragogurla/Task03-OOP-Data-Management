@@ -1,0 +1,3 @@
+product_id,name,price,quantity,category,warranty_years,expiry_date
+E001,Laptop,55000,2,Electronics,2,
+G001,Rice,60,10,Grocery,,2027-01-15
